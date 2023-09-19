@@ -1,0 +1,2 @@
+Para criar um novo projeto digite o comando abaixo:
+ruby mini.rb new local_do_projeto/nome_do_projeto
