@@ -1,11 +1,9 @@
 # Bem vindo(a) à lib_mini_desktop
 
-## Esta lib cria a base para desenvolver aplicações desktop em ruby com interface gráfica baseada em GTK.
+## Esta lib cria uma base MVC para desenvolver aplicações desktop em ruby com interface gráfica baseada em GTK.
 
 ### Imagens de aplicações feitas com a lib_mini_desktop
-<img src="https://github.com/Adyson-Lima-Programador/lib_mini_desktop/blob/main/doc/appgif.gif">
-
-### Documentação da lib_mini_desktop, gerada com rdoc, disponível na pasta <a href="https://github.com/Adyson-Lima-Programador/lib_mini_desktop/tree/main/doc">lib_mini_desktop/doc</a>
+<img src="https://github.com/Adyson-Lima/lib_mini_desktop/blob/main/doc/appgif.gif">
 
 ### Recursos disponíveis
 - [X] Geração de telas base em GTK3
@@ -16,8 +14,8 @@
 
 ### Requisitos:
 - Ruby 3
-- Criador de interfaces gráficas <a href="https://glade.gnome.org/">GLADE</a>
-- Gem <a href="https://rubygems.org/gems/gtk3/versions/3.3.6">gtk3</a> para criação de interfaces gráficas em ruby
+- Criador de interfaces gráficas GLADE (em estudo a migração para outra ferramenta)
+- Gem gtk3 para criação de interfaces gráficas em ruby
 
 ### Utilização
 ```bash
