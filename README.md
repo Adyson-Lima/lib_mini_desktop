@@ -29,6 +29,10 @@ cd lib_mini_desktop
 # Rode o comando abaixo para criar um projeto com o nome de sua preferência
 ruby mini.rb new nome_do_projeto
 
-# Utilize o Glade para criar suas interfaces gráficas
+# edite o script nome_do_projeto/start_project.sh de acordo com sua necessidade, para rodar sua aplicação
+
+# Utilize o Glade para editar a tela inicial da aplicação na pasta nome_do_projeto/view
+
+
 
 ```
