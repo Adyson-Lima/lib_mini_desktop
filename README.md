@@ -2,9 +2,6 @@
 
 ## Esta lib cria uma base MVC para desenvolver aplicações desktop em ruby com interface gráfica baseada em GTK.
 
-### Imagens de aplicações feitas com a lib_mini_desktop
-<img src="https://github.com/Adyson-Lima/lib_mini_desktop/blob/main/doc/appgif.gif">
-
 ### Recursos disponíveis
 - [X] Geração de telas base em GTK3
 - [X] Geração do arquivo GEMFILE
