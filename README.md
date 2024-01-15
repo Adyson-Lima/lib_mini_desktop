@@ -1,4 +1,6 @@
-# Bem vindo(a) à lib_mini_desktop
+# Nota: Este software está em processo de atualização para GTK4.
+
+## Bem vindo(a) à lib_mini_desktop
 
 ## Esta lib cria uma base MVC para desenvolver aplicações desktop em ruby com interface gráfica baseada em GTK.
 
